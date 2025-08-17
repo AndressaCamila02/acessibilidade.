@@ -10,7 +10,7 @@
   font-size: 18px;
   border-radius: 8px;
   background-color: #fff;
-  border: 1px solid #8D8D8D;
+  border: 1px solid #8a7594;
   padding: 3em 1.5em 1.5em 1.5em;
   box-shadow: 0 0 5px rgba(0, 0, 0, .5); 
   position: fixed;
@@ -20,7 +20,7 @@
   transform: translate(-50%,-52%);
   z-index: 3;
   transition: .3s ease-in;
-  color: #222;
+  color: #33213f;
   width: 300px;
   max-width: 533px;
   text-align: left;
@@ -63,7 +63,7 @@
 .dialogNewsletter-campo {
   font-size: 1em;
   border-radius: 8px;
-  border: 1px solid #5E5E5E;
+  border: 1px solid #736288;
   padding: 8px;
   margin-right: 10px;
   margin-bottom: 10px;
@@ -75,7 +75,7 @@
   vertical-align: top;
   text-indent: -9999px;
   border-radius: 8px;
-  border: 1px solid #FF1242;
+  border: 1px solid #ff12c4;
   padding: 8px;
   width: 100%;
   height: 3.1em;
@@ -85,7 +85,7 @@
 
 .dialogNewsletter-btn:hover,
 .dialogNewsletter-btn:focus {
-  background-color: #EB5757;
+  background-color: #ad4040;
   cursor: pointer;
   background-image: url(../img/email-hover.png);
 }

@@ -12,9 +12,9 @@
   width: 20px;
   height: 20px;
   text-align: center;
-  background-color: #fff;
+  background-color: #f6ebff;
   transform: translate(-7px, -3px);
-  border: 1px solid #7D7D7D;
+  border: 1px solid #534668;
   color: transparent;
   line-height: 1;
   transition: .2s ease-in;
@@ -23,7 +23,7 @@
 .contatoCampo-checkbox:checked + .contatoCampo-label:before {
   content: 'x';
   color: #fff;
-  background-image: radial-gradient(circle, #2DA4E7, #2F80ED);
+  background-image: radial-gradient(circle, #7035a8, #7035a8);
 }
 
 .contatoCampo-checkbox {
@@ -56,17 +56,17 @@
   padding: .5em;
   min-height: 50px;
   border-radius: 8px;
-  border: 2px solid #ccc;
+  border: 2px solid #bea8d3;
   outline: 0;
 } 
 
 .contatoCampo input:focus,
 .contatoCampo textarea:focus {
-  border: 2px solid #222;
+  border: 2px solid #1d1127;
 } 
 
 .contatoCampo-campoDesabilitado {
-  background-color: #ddd;
+  background-color: #d2aaff;
 }
 
 .contatoCampo-msg, 
@@ -75,18 +75,18 @@
   margin-top: 4px;
   font-size: .9em;
   font-weight: bold;
-  color: #FD1242;
+  color: #e212fd;
   display: inline-block;
 }
 
 .contatoCampo .contatoCampo--validouFoi {
-  border: 2px solid #219653;
+  border: 2px solid #006f91;
   background-color: #fff;
   position: relative;
 }
 
 .contatoCampo .contatoCampo--validouErro {
-  border: 2px solid #FF0000;
+  border: 2px solid #810101;
   background-color: #fff;
   position: relative;
 }
