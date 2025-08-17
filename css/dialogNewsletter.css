@@ -85,7 +85,7 @@
 
 .dialogNewsletter-btn:hover,
 .dialogNewsletter-btn:focus {
-  background-color: #ad4040;
+  background-color: #6640ad;
   cursor: pointer;
   background-image: url(../img/email-hover.png);
 }
@@ -107,7 +107,7 @@
 
 .dialogNewsletter-fechar:before {
   content: 'x';
-  color: #666;
+  color: #533872;
   width: 32px;
   height: 32px;
   display: block;
@@ -122,7 +122,7 @@
 
 .dialogNewsletter-fechar:hover:before,
 .dialogNewsletter-fechar:focus:before {
-  color: #ce3434;  
+  color: #8434ce;  
   cursor: pointer;
 }
 
