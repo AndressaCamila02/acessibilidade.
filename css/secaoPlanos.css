@@ -10,22 +10,22 @@
   width: 80%;
   margin: 0 .5em 2em .5em;
   padding-bottom: 2em;
-  box-shadow: 0 2px 9px #ddd;
+  box-shadow: 0 2px 9px #d6c1e9;
   max-width: 300px;
   display: inline-block;
 
 }
 
 .secaoPlanos-plano--start {
-  color: #56CCF2;
+  color: #9256f2;
 }
 
 .secaoPlanos-plano--ultra {
-  color: #B04CD9;
+  color: #5a37ac;
 }
 
 .secaoPlanos-plano--mega {
-  color: #E33B3B;
+  color: #3a1b8f;
 }
 
 .secaoPlanos-plano-titulo {
@@ -35,7 +35,7 @@
   width: 100%;
   padding: .4em 1em;
   font-size: 1.5em;
-  border-bottom: 1px solid #DFE3E5;
+  border-bottom: 1px solid #d1bbf5;
   margin-bottom: .5em;
 }
 
@@ -64,7 +64,7 @@
   margin: 1em auto 1.5em auto;
   line-height: 2;
   list-style: disc;
-  color: #666;
+  color: #b89ee2;
   width: 240px;
 }
 
@@ -86,7 +86,7 @@
 
 .secaoPlanos-plano:nth-of-type(1) .secaoPlanos-plano-btn:hover,
 .secaoPlanos-plano:nth-of-type(1) .secaoPlanos-plano-btn:focus {
-  background-color: #56CCF2;
+  background-color: #9f56f2;
 }
 
 .secaoPlanos-plano:nth-of-type(2) .secaoPlanos-plano-btn:hover,
@@ -96,11 +96,11 @@
 
 .secaoPlanos-plano:nth-of-type(3) .secaoPlanos-plano-btn:hover,
 .secaoPlanos-plano:nth-of-type(3) .secaoPlanos-plano-btn:focus {
-  background-color: #E33B3B;
+  background-color: #432777;
 }
 
 .secaoPlanos-plano-titulo--destaque {
-  background-color: #B72E2E;
+  background-color: #752eb7;
 }
 
 
